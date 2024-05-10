@@ -10,6 +10,7 @@ def height(self):
 
     return self._height
 
+
 @height.stter
 def height(self, value):
     """ method that defines the height
